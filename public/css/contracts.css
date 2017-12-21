@@ -1,0 +1,88 @@
+
+
+
+.img-circle{
+    display: block;
+    margin: 0 auto;
+}
+
+.space{
+    padding-top: 100px;
+}
+.white-bg{
+    background-color: #ffffff !important;
+    box-shadow: 0 0 14px #BBBBB9;
+}
+.main-shadow{
+    box-shadow: 0 0 14px #BBBBB9;
+}
+.footer-bg{
+    background-color: #080808;
+    color:white;
+}
+
+
+
+thead{
+    font-weight: bold;
+}
+
+.moretag{
+    margin-left: 5px;
+}
+.form-inline .form-control {
+    width:auto !important;
+}
+
+#home{
+	min-height:85vh;
+	min-width: 150vh;
+	background-image:  url("../myimage/IMG_0480.JPG");
+}
+
+#home #title{
+	font-family: 'Pinyon Script', cursive !important;
+	margin-top: 12%;
+}
+.divider-image img{
+	height: 100px;
+	width:100%;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.portfolio{
+	margin-bottom:20px;
+}
+.addPadding{
+	padding:15px;
+}
+
+.blog-header{
+	background-image: url("../myimage/DSC_0232.JPG");
+	height:400px;
+	width:100%;
+	background-position: left bottom;
+	color:white;
+	padding-top:50px;
+	
+	
+}
+
+.posttitle .glyphicon{
+	color: #21759B;
+}
+
+.post{
+	margin-bottom: 25px;
+}
+.greybackground{
+	background-color: #F5F5F3;
+}
+
+.wp-post-image{
+	margin:0 25px 5px 0;
+}
+
+.sidebar{
+	padding: 50px 0 50px 0;
+}
